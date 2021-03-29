@@ -1,9 +1,9 @@
-# SquirrelsFast - Average Calculator Alpha 1.0
+# SquirrelsFast - Average Calculator
 
 1. Download all the files
 2. Run the "SquirrelsFast-Average-Calculator-x64-1.0.0-setup.exe" file as Administrator.
 ***
-Follow the setup wizard instructions. After the installation, you can find the program shortcut on your desktop.
+Follow the setup wizard instructions. After the installation, you can find the program shortcut on your desktop as "SquirrelsFast Average Calculator".
 ***
 3. Double-click on it and enjoy!
 
